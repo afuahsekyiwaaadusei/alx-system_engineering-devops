@@ -1,2 +1,2 @@
 #!/bin/bash101-clean_emacs
-rm *.c~
+rm [[:alpha:]]*.c~
