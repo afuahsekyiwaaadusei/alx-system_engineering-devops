@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --dereference vincent:staff _hello
+chown -hH vincent:staff _hello
