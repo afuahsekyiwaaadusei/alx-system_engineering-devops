@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+Contains the number_of_subscribers function
+"""
 
 def number_of_subscribers(subreddit):
     """Returns the number of subscribers in the provided subreddit.
