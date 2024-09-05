@@ -1,4 +1,3 @@
-f
 #!/usr/bin/python3
 """function that prints the
 titles of the top 10 hottest posts a given subreddit."""
